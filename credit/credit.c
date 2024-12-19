@@ -49,6 +49,9 @@ int main(void)
     if(somatotal % 10 != 0)
     {
         printf("Invalid\n");
+        getchar();
+        printf("Press a key to continue...");
+        getchar();
         return 0;
     }
 
@@ -74,4 +77,7 @@ int main(void)
     {
         printf("VISA\n");
     }
+    getchar();
+    printf("Press a key to continue...");
+    getchar();
 }

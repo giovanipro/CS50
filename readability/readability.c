@@ -60,4 +60,6 @@ void ColemanForm(int letters, int phrases, int words)
     {
         printf("Grade: %d\n", (int)index);
     }
+    printf("Press a key to continue...");
+    getchar();
 }

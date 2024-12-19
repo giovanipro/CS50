@@ -44,5 +44,7 @@ int main(int argc, string argv[])
     }
     encodedtext[size] = '\0';
     printf("Encoded Text: %s\n", encodedtext);
+    printf("Press a key to continue...");
+    getchar();
     return 0;
 }

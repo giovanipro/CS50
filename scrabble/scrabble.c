@@ -24,7 +24,7 @@ int main(void)
     {
         printf("Tie!");
     }
-    printf("\nPressione uma tecla para continuar...");
+    printf("\nPress a key to continue...");
     getchar();
 }
 

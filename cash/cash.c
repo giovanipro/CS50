@@ -27,4 +27,7 @@ int main(void)
     int totalcoins = moeda25 + moeda10 + moeda5 + moeda1;
 
     printf("Número de Moedas: %i\n", totalcoins);
+    getchar();
+    printf("Press a key to continue...");
+    getchar();
 }

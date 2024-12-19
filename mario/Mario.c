@@ -24,4 +24,7 @@ int main(void)
         }
         printf("\n");
     }
+    getchar();
+    printf("Press a key to continue...");
+    getchar();
 }

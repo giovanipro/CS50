@@ -23,5 +23,8 @@ int main(void)
         start = start + (start / 3) - (start / 4);
         years++;
     } while (start < end);
-    printf("Years: %i", years);
+    printf("Years: %i\n", years);
+    getchar();
+    printf("Press a key to continue...");
+    getchar();
 }
