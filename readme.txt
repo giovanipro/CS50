@@ -12,8 +12,12 @@ scrabble: type a word to play the game.
 
 readability: type a text to see the grade.
 
-caesar: execute caesar.c in a terminal to use.
+caesar: execute caesar in a terminal to use.
 
-substitution: execute substitution.c in a terminal to use.
+substitution: execute substitution in a terminal to use.
 
 population: type the start and end size.
+
+plurality: execute plurality in a terminal to use
+
+runoff: execute runoff in a terminal to use
