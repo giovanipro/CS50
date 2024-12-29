@@ -21,3 +21,5 @@ population: type the start and end size.
 plurality: execute plurality in a terminal to use
 
 runoff: execute runoff in a terminal to use
+
+tideman: execute tideman in a terminal to use
